@@ -7,11 +7,15 @@ Aqui você encontra o material completo para o curso de linguagem de programaç�
 
 ## Exercícios resolvidos
 ... para cada ch 
-<img src="https://github.com/heltonmaia/python-book/assets/4681481/3b35a299-ed2b-4359-8df7-df3bb9a28941" width="200">
+
 
 
 
 
 
 ## 1min videos
-...explicacoes rapidas
+
+### video 1
+https://github.com/heltonmaia/python-book/assets/4681481/b9e18aa0-9bf2-4cc0-9ebc-989302177e3e
+
+
