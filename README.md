@@ -6,7 +6,11 @@ Aqui você encontra o material completo para o curso de linguagem de programaç�
   - [Livro](https://github.com/heltonmaia/python-book/blob/main/book.pdf)
 
 ## Exercícios resolvidos
-... para cada ch
+... para cada ch 
+
+https://github.com/heltonmaia/python-book/assets/4681481/3b35a299-ed2b-4359-8df7-df3bb9a28941
+
+
 
 ## 1min videos
 ...explicacoes rapidas
